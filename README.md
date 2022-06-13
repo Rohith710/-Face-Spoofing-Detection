@@ -20,3 +20,10 @@ opencv-python==4.4.0.40
 tensorflow==2.5.0
 google colab / pycharm /jupyter Notebook
 Mobile net - mobilenetv2-epoch_01
+
+
+Clone this repository in the command prompt or anaconda prompt,describe the path
+   1)open the file face_spoofing_detection
+   2) Web cam will be processed and live detection will take place
+
+if we compare our live video and our picture near us we can spot the difference ,the live video image will be displayed in an rectangulare box on ur face as  real,the photo will not be real
